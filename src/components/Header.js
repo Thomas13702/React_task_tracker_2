@@ -1,5 +1,9 @@
 const Header = () => {
-  return <div>Header</div>;
+  return (
+    <header>
+      <h1>Task Tracker</h1>
+    </header>
+  );
 };
 
 export default Header;
